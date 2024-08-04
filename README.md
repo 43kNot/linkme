@@ -1,2 +1,1 @@
-# linkme
- A responsive linktr.ee style page for my social accounts
+I created a responsive linktr.ee style page to use on my social accounts. I was prompted to build this when submitting an application for a coding retreat that asked me to include any links I had and also asked me to submit something I had built from scratch. 2 birds, 1 stone, yeah? 🐣🐥🪨
